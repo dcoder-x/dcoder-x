@@ -7,7 +7,7 @@
 </p> 
 
 - 🚧 I am a fullstack engineer with a nack for building user centered digital products/solutions.
-  I have a decent experience in building APIs, Websites and mobile apps using mosern technologies.
+  I have a decent experience in building APIs, Websites and mobile apps using modern technologies.
   
 - ❤️ I love learning and tackling problems
 - 👯 I’m looking to collaborate more on **projects**
@@ -34,6 +34,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=preciousken&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=dcoder-x&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
