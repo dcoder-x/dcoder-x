@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate more on **projects**
 - 🤖 currently pursuing a computer engineering degree
   
-- 💌 JUst say **"HI"** :
+- 💌 Just say **"HI"** :
     ##### 📧 [ayofaluyijobs@gmail.com](mailto:ayofaluyijobs@gmail.com)  
     ##### 🌏 [https://ayofaluyi.onrender.com](https://ayofaluyi.onrender.com)
     ##### 📞 [+2348135699050](tel:+2348135699050)
