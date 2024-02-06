@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Back+End+Engineer;Open%20Source&center=true&width=640&height=55"></a>
 </p> 
 
-- 🚧 I am a fullstack engineer with a nack for building user centered digital products/solutions.
+- 👨‍💻 I am a fullstack engineer with a nack for building user centered digital products/solutions.
   I have a decent experience in building APIs, Websites and mobile apps using modern technologies.
   
 - ❤️ I love learning and tackling problems
