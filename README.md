@@ -14,16 +14,10 @@
 - 🤖 currently pursuing a computer engineering degree
   
 - 💌 Just say **"HI"** :
-    ##### 📧 [ayofaluyijobs@gmail.com](mailto:ayofaluyijobs@gmail.com)  
+    ##### 📧 [ayomikunfaluyi@gmail.com](mailto:ayomikunfaluyi@gmail.com)  
     ##### 🌏 [https://ayofaluyi.onrender.com](https://ayofaluyi.onrender.com)
     ##### 📞 [+2348135699050](tel:+2348135699050)
 
-- Some of my projects  
-    ##### 🌏 [bekkahai.io](https://bekkahai.io)
-    ##### 🌏 [Agape mobile app API]()
-    <!-- ##### 🌏 [perzsirentals.com](https://www.perzsirentals.com) -->
-    ##### 🌏 [christianreals.com](https://beta-christianreals.onrender.com/signin)
-    <!-- ##### 🌏 [keysgame.me](https://keysgame.me) -->
 
 ## Languages and Tools
 <p align="center">
