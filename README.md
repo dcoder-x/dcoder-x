@@ -15,7 +15,7 @@
   
 - 💌 Just say **"HI"** :
     ##### 📧 [ayomikunfaluyi@gmail.com](mailto:ayomikunfaluyi@gmail.com)  
-    ##### 🌏 [https://ayofaluyi.onrender.com](https://ayofaluyi.onrender.com)
+    ##### 🌏 [https://theayofaluyi.dev](https://theayofaluyi.dev)
     ##### 📞 [+2348135699050](tel:+2348135699050)
 
 
